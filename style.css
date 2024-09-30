@@ -1,0 +1,22 @@
+.container{
+    height: 10rem;
+    width: 200px;
+    background-color: rgb(255, 127, 127);
+margin-left: 200 px;
+border-radius: 200px ;
+}
+
+
+.container2{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    margin:auto;
+}
+
+
+body{
+    background-image: url('./istockphoto-532378051-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
